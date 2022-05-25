@@ -1,2 +1,5 @@
->work with developers
+>work with 2 developers
+>create merge conflict 
+>resolve conflict
+
 >somthing completly different
